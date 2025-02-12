@@ -182,7 +182,7 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".girl-dp",
+      ".vector img",
       0.5,
       {
         scale: 3.5,
